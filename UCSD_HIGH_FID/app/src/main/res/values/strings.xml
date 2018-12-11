@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">UCSD_HIGH_FID</string>
+    <string name="title_activity_home">SportApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_saldo">Saldo</string>
+    <string name="title_activities">Activiteiten</string>
+    <string name="title_achievements">Trofeeën</string>
+    <string name="title_messages">Berichten</string>
+
+    <string-array name="instellingen">
+        <item>UHasselt</item>
+        <item>PXL</item>
+        <item>UCLL</item>
+    </string-array>
+
+    <string-array name="geslacht">
+        <item>Man</item>
+        <item>Vrouw</item>
+        <item>Ander</item>
+    </string-array>
+
+    <string-array name="tijd">
+        <item>Deze week</item>
+        <item>Deze maand </item>
+        <item>Dit jaar</item>
+    </string-array>
+
+    <string-array name="sorteren">
+        <item>A-Z</item>
+        <item>Z-A</item>
+        <item>Categorie</item>
+    </string-array>
+
+    <string-array name="typeview">
+        <item>Lijst</item>
+        <item>Kalender</item>
+        <item>Kaart</item>
+    </string-array>
+
+    <string name="title_activity_home2">Home2Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
